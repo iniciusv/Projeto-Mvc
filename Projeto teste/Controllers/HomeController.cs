@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Projeto_teste.Models;
+using Projeto_teste.Models.ViewModels;
+//using Projeto_teste.ErrorViewModel;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
